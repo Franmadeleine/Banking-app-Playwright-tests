@@ -11,9 +11,5 @@ test('Assert customer has correct bank data', async ({ page }) => {
   5. Assert Account Number text
   5. Assert Balance text
   6. Assert Currency text
-
-  Tip:
-  1. Use .inputValue() to obtain the value from Account Number dropd-down 
-  2. Use `await expect().toBe()` to validate the number obtained from drop-down
   */
 });
