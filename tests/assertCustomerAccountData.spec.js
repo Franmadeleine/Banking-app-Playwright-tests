@@ -5,7 +5,7 @@ test('Assert customer has correct bank data', async ({ page }) => {
   Test:
   1. Open Wizard bank link 
     https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer
-  2. Select Hermione Granger
+  2. Select Hermoine Granger
   3. Click [Login]
   4. Assert Account Number in Dropdown next to the Hermoine Granger name
   5. Assert Account Number text
