@@ -22,6 +22,7 @@ Run the tests:
 npx playwright test
 
    ✅ Test Coverage
+   
 ✔️ Customer login
 
 ✔️ Balance validation
@@ -35,10 +36,15 @@ npx playwright test
 ✔️ Error message validation
 
 📂 Folder Structure
+
 tests/
+
 ├── login.spec.js
+
 ├── withdrawal.spec.js
+
 ├── deposit.spec.js
+
 └── transactions.spec.js
 
 
